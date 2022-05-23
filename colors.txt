@@ -1,0 +1,13 @@
+ff0000ff
+ffffff
+fff
+255,0,0,255
+255,0,0
+dwadziescia
+ffff
+fffff
+fffffff
+fffffffff
+trzydziesci
+25,25
+255,0,0,0 255,0,0,0
